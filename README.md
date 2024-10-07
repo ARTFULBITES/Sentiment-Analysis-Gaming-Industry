@@ -24,7 +24,7 @@ The motivation behind this project is to delve into the nuances of what truly in
 - **Cosine Similarity:** Measured the similarity between documents based on the frequency of words or phrases they contain using Cosine Similarity.
 
 ### Analysis Techniques
-- **Feature Engineering:** Using KMeans and DBSCAN to identify patterns in consumer reviews. 
+- **Feature Engineering:** Using KMeans and DBSCAN to identify patterns in consumer reviews to create new features and eventually enrich our data. 
 - **Dimensionality Reduction:** Applying PCA to reduce the dataset's complexity.
 - **Predictive Modeling:** Employing SVM, Random Forest, and XGBoost, fine-tuned using GridSearchCV for optimal performance.
 
