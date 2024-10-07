@@ -51,3 +51,4 @@ Future research could include:
 - **Integration with Sales Data:** To correlate reviews with sales performance.
 - **Advanced Machine Learning Techniques:** Employing more sophisticated algorithms to deepen the analysis.
 
+**To review the scripts, please download the zip file from the master branch.**
