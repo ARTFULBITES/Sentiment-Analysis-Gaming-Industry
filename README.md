@@ -15,11 +15,13 @@ The motivation behind this project is to delve into the nuances of what truly in
 ## Methodologies
 
 ### Data Preprocessing
-- **Initial Data Import:** Importing and cleaning data from a comprehensive CSV file containing thousands of reviews.
-- **Text Data Preprocessing:** Converting unstructured text into structured form, which included tokenization, removal of stopwords, and lemmatization.
+- **Data Extraction:** Extracted customer rating data from Gamestop website using Selenium and exported it as a CSV file containing thousands of reviews.
+- **Data Import:** Importing and cleaning data from a comprehensive CSV file containing thousands of reviews.
+- **Text Data Preprocessing:** Preprocessed unstructured text in the reviews contents, using tokenization, removal of stopwords, and lemmatization.
 
 ### Vectorization
 - **TF-IDF Vectorization:** Transforming text data into a format suitable for model ingestion, emphasizing words that are more relevant in the reviews' context.
+- **Cosine Similarity:** Measured the similarity between documents based on the frequency of words or phrases they contain using Cosine Similarity.
 
 ### Analysis Techniques
 - **Clustering Analysis:** Using KMeans and DBSCAN to identify patterns in consumer reviews.
