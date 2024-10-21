@@ -1,4 +1,4 @@
-# Can We Trust Consumer Ratings? Exploring the Truth Behind GameStop Reviews
+# To What Extent Can We Trust 5-Star Consumer Ratings? Exploring the Truth Behind GameStop Reviews
 
 ## Executive Summary
 
